@@ -1,0 +1,50 @@
+.netflix-body{
+    background-color: black;
+}
+
+.heading-logo{
+    width: 134px;
+}
+
+.mid-section{
+    color: white;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.mid-section-profile{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    text-align: center;
+    
+    
+    
+}
+
+.image{
+    height: 192px;
+    width: 192px;
+}
+
+.mid-section-manageprofiles-button{
+    background-color: #141414;
+    color: #DCDCDC;
+    padding: 12px;
+    border: 1px solid #DCDCDC;
+    font-size: 15px ;
+    font-weight: bold;
+}
+
+.profile-image-text{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.image:hover{
+    transform: scale(1.1);
+}
